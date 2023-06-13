@@ -3,15 +3,17 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">FrontEnd React Developer</h3>
 
+<p>I have a strong track record of completing successful projects and staying up-to-date with the latest technologies to ensure my projects are always user-friendly, responsive, and up-to-date.</p>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnz50&label=Profile%20views&color=0e75b6&style=flat" alt="dnz50" /> </p>
 <p align="left"> <a href="https://twitter.com/@akdnzdev" target="blank"><img src="https://img.shields.io/twitter/follow/@akdnzdev?logo=twitter&style=for-the-badge" alt="@akdnzdev" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript React ReactNative**
+- 🌱 I’m currently learning **ReactNative**
 
 - 📫 How to reach me **akdnzdev@gmail.com**
+- <a href="https://ahmetakdeniz.netlify.app/"> Website:Ahmet Akdeniz </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
